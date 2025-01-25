@@ -1,0 +1,12 @@
+{
+  "name": "othermath",
+  "version": "2.0.0",
+  "description": "This is a library for JavaScript\r These are more math functions that JavaScript doesn't have",
+  "main": "othermath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["math"],
+  "author": "mimic_vr <mimicvr5@gmail.com>",
+  "license": "MIT"
+}
