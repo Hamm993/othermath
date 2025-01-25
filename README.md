@@ -1,0 +1,2 @@
+# othermath
+A JS Library
